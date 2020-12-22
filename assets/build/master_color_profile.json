@@ -1,0 +1,178 @@
+{
+  "onboarding": {
+    "colormaps": [
+      {
+        "keypath": "Mic_1 Outlines, Group 1, Fill 1",
+        "color": "[0.545000023935,0.54900004069,0.769000004787,1]"
+      },
+      {
+        "keypath": "Mic_2 Outlines, Group 1, Fill 1",
+        "color": "[0.545000023935,0.54900004069,0.769000004787,1]"
+      },
+      {
+        "keypath": "Mic_1 Outlines, Group 2, Fill 1",
+        "color": "[0.294000004787,0.298000021542,0.458999992819,1]"
+      },
+      {
+        "keypath": "Mic_2 Outlines, Group 2, Fill 1",
+        "color": "[0.545000023935,0.54900004069,0.769000004787,1]"
+      },
+      {
+        "keypath": "Mic_3 Outlines, Group 1, Fill 1",
+        "color": "[0.545000023935,0.54900004069,0.769000004787,1]"
+      },
+      {
+        "keypath": "Mic_2 Outlines, Group 3, Fill 1",
+        "color": "[0.545000023935,0.54900004069,0.769000004787,1]"
+      },
+      {
+        "keypath": "Mic_3 Outlines, Group 2, Fill 1",
+        "color": "[0.545000023935,0.54900004069,0.769000004787,1]"
+      },
+      {
+        "keypath": "Mag_Glass Outlines, Group 2, Fill 1",
+        "color": "[0.430999995213,0.435000011968,0.675,1]"
+      },
+      {
+        "keypath": "Page Outlines, Group 1, Fill 1",
+        "color": "[1,1,1,1]"
+      },
+      {
+        "keypath": "Page Outlines, Group 2, Fill 1",
+        "color": "[1,1,1,1]"
+      },
+      {
+        "keypath": "Mag_Glass Outlines, Group 1, Fill 1",
+        "color": "[0.889999988032,0.39199999641,0.416000007181,1]"
+      },
+      {
+        "keypath": "Page Outlines, Group 3, Fill 1",
+        "color": "[1,1,1,1]"
+      },
+      {
+        "keypath": "Page Outlines, Group 4, Fill 1",
+        "color": "[0.702000038297,0.685999971278,0.670999983245,1]"
+      },
+      {
+        "keypath": "Page Outlines, Group 5, Fill 1",
+        "color": "[0.882000014361,0.875,0.866999966491,1]"
+      },
+      {
+        "keypath": "Diamond_Grey_1 Outlines, Group 1, Fill 1",
+        "color": "[0.882000014361,0.875,0.866999966491,1]"
+      },
+      {
+        "keypath": "Diamond_Pink_2 Outlines, Group 1, Fill 1",
+        "color": "[0.969000004787,0.776000019148,0.783999992819,1]"
+      },
+      {
+        "keypath": "Notepad Outlines, Group 1, Fill 1",
+        "color": "[0.889999988032,0.39199999641,0.416000007181,1]"
+      },
+      {
+        "keypath": "Notepad Outlines, Group 2, Fill 1",
+        "color": "[0.889999988032,0.39199999641,0.416000007181,1]"
+      },
+      {
+        "keypath": "Notepad Outlines, Group 3, Fill 1",
+        "color": "[0.889999988032,0.39199999641,0.416000007181,1]"
+      },
+      {
+        "keypath": "Notepad Outlines, Group 4, Fill 1",
+        "color": "[0.889999988032,0.39199999641,0.416000007181,1]"
+      },
+      {
+        "keypath": "Notepad Outlines, Group 5, Fill 1",
+        "color": "[0.952999997606,0.948999980852,0.944999964097,1]"
+      },
+      {
+        "keypath": "Notepad Outlines, Group 6, Fill 1",
+        "color": "[0.783999992819,0.776000019148,0.769000004787,1]"
+      },
+      {
+        "keypath": "Notepad Outlines, Group 7, Fill 1",
+        "color": "[0.783999992819,0.776000019148,0.769000004787,1]"
+      },
+      {
+        "keypath": "Notepad Outlines, Group 9, Fill 1",
+        "color": "[0.783999992819,0.776000019148,0.769000004787,1]"
+      },
+      {
+        "keypath": "Notepad Outlines, Group 8, Fill 1",
+        "color": "[0.783999992819,0.776000019148,0.769000004787,1]"
+      },
+      {
+        "keypath": "Notepad Outlines, Group 11, Fill 1",
+        "color": "[0.882000014361,0.875,0.866999966491,1]"
+      },
+      {
+        "keypath": "Notepad Outlines, Group 10, Fill 1",
+        "color": "[0.933000033509,0.560999971278,0.579999976065,1]"
+      },
+      {
+        "keypath": "Diamond_Pink_1 Outlines, Group 1, Fill 1",
+        "color": "[0.969000004787,0.776000019148,0.783999992819,1]"
+      },
+      {
+        "keypath": "Talk_Bubble_Pink Outlines, Group 1, Fill 1",
+        "color": "[1,1,1,1]"
+      },
+      {
+        "keypath": "Talk_Bubble_Pink Outlines, Group 2, Fill 1",
+        "color": "[1,1,1,1]"
+      },
+      {
+        "keypath": "Talk_Bubble_Pink Outlines, Group 3, Fill 1",
+        "color": "[0.969000004787,0.776000019148,0.783999992819,1]"
+      },
+      {
+        "keypath": "Talk_Bubble_Grey Outlines, Group 1, Fill 1",
+        "color": "[0.702000038297,0.685999971278,0.670999983245,1]"
+      },
+      {
+        "keypath": "Talk_Bubble_Grey Outlines, Group 3, Fill 1",
+        "color": "[0.783999992819,0.776000019148,0.769000004787,1]"
+      },
+      {
+        "keypath": "Talk_Bubble_Grey Outlines, Group 2, Fill 1",
+        "color": "[0.702000038297,0.685999971278,0.670999983245,1]"
+      },
+      {
+        "keypath": "Diamond_Grey_2 Outlines, Group 1, Fill 1",
+        "color": "[0.882000014361,0.875,0.866999966491,1]"
+      },
+      {
+        "keypath": "Files Outlines, Group 1, Fill 1",
+        "color": "[0.933000033509,0.560999971278,0.579999976065,1]"
+      },
+      {
+        "keypath": "Files Outlines, Group 2, Fill 1",
+        "color": "[0.969000004787,0.776000019148,0.783999992819,1]"
+      },
+      {
+        "keypath": "Files Outlines, Group 3, Fill 1",
+        "color": "[0.882000014361,0.875,0.866999966491,1]"
+      },
+      {
+        "keypath": "Files Outlines, Group 4, Fill 1",
+        "color": "[0.952999997606,0.948999980852,0.944999964097,1]"
+      },
+      {
+        "keypath": "Files Outlines, Group 5, Fill 1",
+        "color": "[0.882000014361,0.875,0.866999966491,1]"
+      },
+      {
+        "keypath": "Files Outlines, Group 6, Fill 1",
+        "color": "[0.933000033509,0.560999971278,0.579999976065,1]"
+      },
+      {
+        "keypath": "Files Outlines, Group 7, Fill 1",
+        "color": "[0.933000033509,0.560999971278,0.579999976065,1]"
+      },
+      {
+        "keypath": "Grey_Circle Outlines, Group 1, Fill 1",
+        "color": "[0.917999985639,0.917999985639,0.952999997606,1]"
+      }
+    ]
+  }
+}

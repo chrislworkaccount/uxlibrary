@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Illustration">
+    <attr name="illustration_theme">
+        <enum name="ill_onboarding_edu" value="0" />
+        <enum name="ill_onboarding_dark" value="1" />
+        <enum name="ill_onboarding_light" value="2" />
+    </attr>
+    <attr name="illustration_key">
+        <enum name="onboarding" value="0" />
+    </attr>
+    </declare-styleable>
+</resources>

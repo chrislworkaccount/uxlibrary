@@ -1,0 +1,27 @@
+[
+  {
+    "version": "ill_onboarding_edu",
+    "colormaps": [
+      {
+        "keypath": "MASK,Group 1,Fill 1",
+        "color": "#FFFFFFFF"
+      },
+      {
+        "keypath": "Slides Outlines - Group 2,Group 2,Stroke 1",
+        "color": "#FFFFFFFF"
+      },
+      {
+        "keypath": "Slides Outlines - Group 3,Group 3,Stroke 1",
+        "color": "#FFFFFFFF"
+      },
+      {
+        "keypath": "Slides Outlines - Group 4,Group 4,Fill 1",
+        "color": "#FFFF0000"
+      },
+      {
+        "keypath": "Slides Outlines - Group 5,Group 5,Fill 1",
+        "color": "#FFFF0039"
+      }
+    ]
+  }
+]
